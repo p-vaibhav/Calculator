@@ -61,7 +61,7 @@ case 4:
 case 5:
     {cout << "Enter a number" << endl;
         cin >> num1;
-        result = num1^2;
+        result = num1 * num1;
         cout << "Result = " << result;
     break;
     }
